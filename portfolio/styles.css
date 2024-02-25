@@ -1,0 +1,295 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header, nav, section, footer {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+    border-radius: 50%;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #666;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, section, nav, footer {
+    margin-bottom: 20px;
+    width: 80%; 
+}
+
+h1, h2 {
+    color: #333;
+}
+
+section, nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, section, nav, footer {
+    margin-bottom: 20px;
+    width: 80%; 
+}
+
+h1 {
+    color: #2e74b5; /* Blue color */
+}
+
+h2 {
+    color: #4caf50; /* Green color */
+}
+
+section, nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #f4f4f4;
+    pad
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, section, nav, footer {
+    margin-bottom: 20px;
+    width: 80%; 
+}
+
+h1 {
+    color: #2e74b5; 
+}
+
+h2 {
+    color: #4caf50; 
+}
+
+section, nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+img {
+    max-width: 15px; /* Adjust the size as needed */
+    height: auto;
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, section, nav, footer {
+    margin-bottom: 20px;
+    width: 80%; 
+}
+
+h1 {
+    color: #2e74b5; /* Blue color */
+}
+
+h2 {
+    color: #4caf50; /* Green color */
+}
+
+section, nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+img {
+    max-width: 150px; 
+    height: auto;
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, section, nav, footer {
+    margin-bottom: 20px;
+    width: 80%; 
+}
+
+h1 {
+    color: #2e74b5; /* Blue color */
+}
+
+h2 {
+    color: #4caf50; /* Green color */
+}
+
+section, nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+img {
+    width: 150px; 
+    height: 150px; 
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+.profile-container {
+    text-align: center;
+}
+
+.profile-container img {
+    width: 80px; /* Adjust the size as needed */
+    height: auto;
+    border-radius: 50%;
+}
+
+.profile-container p {
+    margin-top: 10px;
+    color: #3498db; 
+    text-transform:uppercase;
+    font-size:60px;
+}
